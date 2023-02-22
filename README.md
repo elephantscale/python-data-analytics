@@ -6,7 +6,7 @@ These are labs for **Python Data Analytics** course by [Elephant Scale](https://
 
 ### 01 - Setting up a Python Dev Environment
 
-[Python dev environment setup](01-dev-env-setup/README.md)
+[Industry Python dev environment setup](01-dev-env-setup/README.md)
 
 ### 02 - Testing the Dev Environment
 
