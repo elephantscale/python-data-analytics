@@ -8,6 +8,8 @@ These are labs for **Python Data Analytics** course by [Elephant Scale](https://
 
 [Industry Python dev environment setup](01-dev-env-setup/README.md)
 
+[Client Python dev environment setup](http://go/dataanalyticspython/#DataAnalyticswithPython-Environment)
+
 ### 02 - Testing the Dev Environment
 
 * Jupyter Notebooks
