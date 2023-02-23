@@ -6,20 +6,17 @@ These are labs for **Python Data Analytics** course by [Elephant Scale](https://
 
 ### 01 - Setting up a Python Dev Environment
 
-[Industry Python dev environment setup](01-dev-env-setup/README.md)
-
 [Client Python dev environment setup](http://go/dataanalyticspython/#DataAnalyticswithPython-Environment)
 
 ### 02 - Testing the Dev Environment
 
-* Jupyter Notebooks
-    * 2.1 - [Test Jupyter environment](01-dev-env-setup/testing-123.ipynb)
-    * 2.2 - [hello jupyter](02-helloworld/hello-jupyter.ipynb)
 * REPL Environment
-    * 2.3 - [Hello world in REPL](02-helloworld/REPL.md)
+    * 2.1 - [Hello world in REPL](02-helloworld/REPL.md)
 * Scripting / Editors
-    * 2.4 - [Hello world scripting](02-helloworld/Script.md)
-
+    * 2.2 - [Hello world scripting](02-helloworld/Script.md)
+Jupyter Notebooks
+    * 2.3 - [Test Jupyter environment](01-dev-env-setup/testing-123.ipynb)
+    * 2.4 - [hello jupyter](02-helloworld/hello-jupyter.ipynb)
 
 
 ## Resources
