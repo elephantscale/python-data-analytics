@@ -10,7 +10,7 @@ These are labs for **Python Data Analytics** course by [Elephant Scale](https://
 
 ### 02 - Testing the Dev Environment
 
-[Client Tesing the Dev Environment](http://go/dataanalyticspython/#DataAnalyticswithPython-TestingtheDevEnvironment)
+[Client Testing the Dev Environment](http://go/dataanalyticspython/#DataAnalyticswithPython-TestingtheDevEnvironment)
 
 * REPL Environment
     * 2.1 - [Hello world in REPL](02-helloworld/REPL.md)
