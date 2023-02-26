@@ -6,21 +6,11 @@ These are labs for **Python Data Analytics** course by [Elephant Scale](https://
 
 ### 01 - Setting up a Python Dev Environment
 
-[Client Python dev environment setup](http://go/dataanalyticspython/#DataAnalyticswithPython-SettingupaPythonEnvironment)
+[Client Python dev environment setup](http://go/dataanalyticspythonsetup)
 
 ### 02 - Testing the Dev Environment
 
-[Client Testing the Dev Environment](http://go/dataanalyticspython/#DataAnalyticswithPython-TestingtheDevEnvironment)
-<<<<<<< HEAD
-
-* REPL Environment
-    * 2.1 - [Hello world in REPL](02-helloworld/REPL.md)
-* Scripting / Editors
-    * 2.2 - [Hello world scripting](02-helloworld/Script.md)
-* Jupyter Notebooks
-    * 2.3 - [Test Jupyter environment](01-dev-env-setup/testing-123.ipynb)
-    * 2.4 - [hello jupyter](02-helloworld/hello-jupyter.ipynb)
-=======
+[Client Testing the Dev Environment](http://go/dataanalyticspythonsetuptest)
 
 * Jupyter Notebooks
     * 2.1 - [Test Jupyter environment](01-dev-env-setup/testing-123.ipynb)
@@ -31,7 +21,6 @@ These are labs for **Python Data Analytics** course by [Elephant Scale](https://
     * 2.4 - [Hello world scripting](02-helloworld/Script.md)
 
 ### 03 - Python Intro
->>>>>>> 0714f6ad99fd05541dadbb34cb08944ca47b06a4
 
 [Python Intro/](03-python-intro/)
 
