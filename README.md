@@ -48,6 +48,20 @@ Here are some datasets you can use
 * [ex-1](03-python-intro/ex-1.ipynb)
 * [ex-2](03-python-intro/ex-2.ipynb)
 
+### Optional/Bonus - More Python
+
+Here are some exercises to learn python
+
+* PYTHON-11 - [File IO](03b-python-extra/01-file-io.ipynb)
+* PYTHON-12 - [Reading and writing JSON files](03b-python-extra/02-json-io.ipynb)
+* PYTHON-13 - Functional Programming
+    - [Functional programming - intro](03b-python-extra/03-functional-1-programming.ipynb)
+    - [Functional programming - filter](03b-python-extra/03-functional-2-filter.ipynb)
+    - [Functional programming - map](03b-python-extra/03-functional-3-map.ipynb)
+    - [Functional programming - reduce](03b-python-extra/03-functional-4-reduce.ipynb)
+- PYTHON-14 -  [Variable arguments to functions](03b-python-extra/04-function-variable-arguments.ipynb)
+- PYTHON-15 -  [Classes in Python](03b-python-extra/05-class-1.ipynb)
+
 ### 04 - Numpy
 
 [Numpy/](04-numpy/)
